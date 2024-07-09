@@ -99,3 +99,8 @@ body {
     background-color: #fff;
     cursor: pointer;
   }
+
+  button:active {
+    transform: translateY(1.5px);
+    box-shadow: 2px 2px black;
+  }
